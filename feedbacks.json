@@ -1,0 +1,32 @@
+[
+  {
+    "user": "harsha",
+    "comment": "good",
+    "id": 1,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "user": "harini",
+    "comment": "good",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "user": "Naveen Raj",
+    "comment": "good food",
+    "rating": 0
+  },
+  {
+    "id": 4,
+    "user": "Naveen Raj",
+    "comment": "dfgthyujiklo",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "user": "sundari",
+    "comment": "adscadcda",
+    "rating": 3
+  }
+]
